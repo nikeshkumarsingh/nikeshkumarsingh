@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](linkedin.com/in/nikesh-kumar-singh)
 
 
-Hey there 👋
+<h3>Hey there 👋<h3>
 
 I’m Nikesh, a aspiring full-stack developer, creative coder and self-motivated  . I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
