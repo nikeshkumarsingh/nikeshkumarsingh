@@ -1,54 +1,45 @@
 [![Nikesh's GitHub Banner](https://miro.medium.com/max/1000/1*nGu-1BrAHCVd671q6mZJ8Q.png)]
 
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/nikeshKumar1947)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](linkedin.com/in/nikesh-kumar-singh)
+Hi 👋 My name is Nikesh Kumar Singh
+===================================
+
+Full stack web developer
+------------------------
+
+I’m Nikesh, a aspiring full-stack developer, creative coder and self-motivated . I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast
+
+* 🌍  I'm based in West Bengal
+* ✉️  You can contact me at [nikdoc1947@gmail.com](mailto:nikdoc1947@gmail.com)
+* 🧠  I'm learning React
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+</p>
 
 
-<h3>Hey there 👋<h3>
+### Socials
 
-I’m Nikesh, a aspiring full-stack developer, creative coder and self-motivated  . I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+<p align="left"> <a href="https://www.github.com/nikeshkumarsingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nikesh-kumar-singh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nikeshKumar1947" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<!-- Want to know more about me? [Check out my portfolio.]() -->
+### Badges
 
-## 📝 Latest Blog Posts
+<b>My GitHub Stats</b>
 
-<br>
+<a href="http://www.github.com/nikeshkumarsingh"><img src="https://github-readme-stats.vercel.app/api?username=nikeshkumarsingh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="nikeshkumarsingh's GitHub stats" /></a>
 
-<!-- BLOG-POST-LIST:START -->
-- [How to fetch data from http link and show on browser](https://medium.com/@nikdoc1947/how-to-fetch-data-from-http-protocol-link-fd3866fe4e9)
-- [Masai journey](https://medium.com/@nikdoc1947/masai-journey-e110b01b0e2f)
-<!-- BLOG-POST-LIST:END -->
+<a href="http://www.github.com/nikeshkumarsingh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshkumarsingh&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<br>
+<a href="http://www.github.com/nikeshkumarsingh"><img src="https://activity-graph.herokuapp.com/graph?username=nikeshkumarsingh&bg_color=000000&color=3382ed&line=0891b2&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
-
-
-## 💼 Skills
-
-
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-
-</details>
+<a href="https://github.com/nikeshkumarsingh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshkumarsingh&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
