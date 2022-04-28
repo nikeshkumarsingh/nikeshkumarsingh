@@ -1,4 +1,4 @@
-[![Nikesh's GitHub Banner](https://miro.medium.com/max/1000/1*nGu-1BrAHCVd671q6mZJ8Q.png)]
+<div ><img src="https://s7.gifyu.com/images/gifntext-gifd7a0943756bea7ca.gif" style="width:80%"/></div>
 
 
 Hi 👋 My name is Nikesh Kumar Singh
@@ -16,6 +16,8 @@ I also apply my passion for developing products with Node.js and Modern Javascri
 * 🌍  I'm based in West Bengal
 * ✉️  You can contact me at [nikdoc1947@gmail.com](mailto:nikdoc1947@gmail.com)
 * 🧠  I'm learning React
+ 
+ ### You can see my port folio <a href="https://nikeshportfolio.vercel.app/resume">here</a>
 
 ### Skills
 
@@ -35,15 +37,14 @@ I also apply my passion for developing products with Node.js and Modern Javascri
 
 <p align="left"> <a href="https://www.github.com/nikeshkumarsingh" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/2x/github--v3.gif" width="32" height="32" border-radius:"7px" /></a> <a href="https://www.linkedin.com/in/nikesh-kumar-singh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nikeshKumar1947" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nikeshkumarsingh"><img style="background:white" src="https://github-readme-stats.vercel.app/api?username=nikeshkumarsingh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="nikeshkumarsingh's GitHub stats" /></a>
-
+<a href="http://www.github.com/nikeshkumarsingh"><img style="background:white" src="https://github-readme-stats.vercel.app/api?username=nikeshkumarsingh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="nikeshkumarsingh's GitHub stats" /></a>`   `
 <a href="http://www.github.com/nikeshkumarsingh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshkumarsingh&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<a href="https://github.com/nikeshkumarsingh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshkumarsingh&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>` `
+<a href="http://www.github.com/nikeshkumarsingh"><img src="https://activity-graph.herokuapp.com/graph?username=nikeshkumarsingh&bg_color=000000&color=3382ed&line=0891b2&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"  style="width:68%"/></a>
 
-<a href="http://www.github.com/nikeshkumarsingh"><img src="https://activity-graph.herokuapp.com/graph?username=nikeshkumarsingh&bg_color=000000&color=3382ed&line=0891b2&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/nikeshkumarsingh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshkumarsingh&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
