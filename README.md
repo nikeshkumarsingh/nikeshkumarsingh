@@ -46,7 +46,7 @@ I also apply my passion for developing products with Node.js and Modern Javascri
 <a href="http://www.github.com/nikeshkumarsingh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshkumarsingh&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true"  /></a></div>
 
 
-<a href="https://github.com/nikeshkumarsingh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshkumarsingh&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>` `<a href="http://www.github.com/nikeshkumarsingh"><img src="https://activity-graph.herokuapp.com/graph?username=nikeshkumarsingh&bg_color=000000&color=3382ed&line=0891b2&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"  style="width:60%"/></a>
+<a href="https://github.com/nikeshkumarsingh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshkumarsingh&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>` `<a href="http://www.github.com/nikeshkumarsingh"><img src="https://activity-graph.herokuapp.com/graph?username=nikeshkumarsingh&bg_color=000000&color=3382ed&line=0891b2&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"  style="width:62%"/></a>
 
 
 
