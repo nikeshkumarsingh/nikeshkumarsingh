@@ -18,7 +18,7 @@ I also apply my passion for developing products with Node.js and Modern Javascri
 * 🧠  I'm learning React
  
  ### You can see my port folio <a href="https://nikeshportfolio.vercel.app/resume">here</a>
-
+### you can see my <a href="https://drive.google.com/file/d/1pQLbgTJiB3_dy345ZOSq42MY0ZSgr0Ah/view?usp=sharing">resume</a>
 ### Skills
 
 <p align="left">
